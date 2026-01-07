@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data (optional — ignore large datasets)
+data/
+*.csv
+*.tsv
+*.dat
+*.npz
+*.npy
+# Plots
+Plots/
+
+
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
