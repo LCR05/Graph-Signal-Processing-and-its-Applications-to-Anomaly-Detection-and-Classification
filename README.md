@@ -1,5 +1,2 @@
 # Graph-Signal-Processing-and-its-Applications-to-Anomaly-Detection-and-Classification
-Still updating
-- General Purpose
-- How to download dataset
-- How to use the notebooks
+The purpose of this repository is to present the code used for our group project "Graph Signal Processing and its Applications to Anomaly Detection and Classifiaction". Moreover, they can be used to play around with the parameters in order to get intuition for the theoretical concepts as well as replicate our results.
