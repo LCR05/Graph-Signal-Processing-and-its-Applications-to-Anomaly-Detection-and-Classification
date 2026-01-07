@@ -1,2 +1,3 @@
 # Graph-Signal-Processing-and-its-Applications-to-Anomaly-Detection-and-Classification
 The purpose of this repository is to present the code used for our group project "Graph Signal Processing and its Applications to Anomaly Detection and Classifiaction". Moreover, they can be used to play around with the parameters in order to get intuition for the theoretical concepts as well as replicate our results.
+For aspects concerning only the graph signal processing theory, open 01Theory.ipynb. If you are specifically interested in the application of GSP methods to the real world data set, open 02NewYorkDataSet.ipynb (and follow the instructions for downloading the material).
